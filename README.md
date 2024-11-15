@@ -1,0 +1,1 @@
+This repository contains a collection of SQL queries and projects designed to practice and demonstrate database management and data analysis skills. The projects cover various scenarios and datasets, showcasing how SQL can be used to extract insights, manipulate data, and solve real-world problems.
